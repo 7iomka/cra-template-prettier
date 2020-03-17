@@ -2,6 +2,11 @@
 
 This is custom template for [Create React App using ESLint + Prettier](https://github.com/7iomka/cra-template-prettier).
 
+## Features
+
+- Eslint + Prettier
+- Absolute imports without problems (type dirrectly name of any folder/file inside `src` dir. Ex.: `import 'components/logo';`)
+
 # Installation
 
 ### `npx create-react-app my-app --template prettier`
