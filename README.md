@@ -1,8 +1,10 @@
-# cra-template
+# cra-template-prettier
 
-This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
+This is custom template for [Create React App using ESLint + Prettier](https://github.com/7iomka/cra-template-prettier).
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
+# Installation
+
+### `npx create-react-app my-app --template prettier`
 
 For more information, please refer to:
 

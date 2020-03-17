@@ -1,24 +1,24 @@
 {
-  "name": "cra-template",
-  "version": "1.0.2",
+  "name": "cra-template-prettier",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
+    "create-react-app-prettier",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "The base template for Create React App using ESLint + Prettier.",
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/7iomka/cra-template-prettier.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/7iomka/cra-template-prettier/issues"
   },
   "files": [
     "template",
